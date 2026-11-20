@@ -9,4 +9,5 @@ ehthumbs.db
 Thumbs.db
 .shopify
 node_modules
-*.zip.denv.env
+*.zip
+.denv.env
